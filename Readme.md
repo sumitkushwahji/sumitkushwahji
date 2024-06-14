@@ -1,6 +1,4 @@
-# Sumit Kushwah
-
-👋 Hi there! I'm Sumit Kushwah, a passionate Full Stack Java Developer based in India. I love creating dynamic and responsive web applications that solve real-world problems. With a strong foundation in both front-end and back-end technologies, I enjoy taking on new challenges and continuously improving my skills.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&pause=1000&color=2E44F7&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Sumit+Kushwah)](https://git.io/typing-svg)
 
 ## About Me
 
