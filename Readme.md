@@ -10,32 +10,8 @@ I have been working as a Full Stack Developer for several years, specializing in
 
 ## Skills
 
-### Front-End
-
-- HTML5, CSS3, JavaScript
-- React.js, Angular
-- Bootstrap, Tailwind CSS
-
-### Back-End
-
-- Java, Spring Boot, Spring MVC
-- RESTful Web Services, Microservices
-- Hibernate, JPA
-
-### Database
-
-- MySQL, PostgreSQL
-- MongoDB
-
-### Tools & Platforms
-
-- Git, GitHub
-- Docker, Kubernetes
-- Jenkins, CI/CD
-- AWS, Azure
-
-### Others
-
-- Agile Methodologies
-- Test-Driven Development (TDD)
-- Object-Oriented Programming (OOP)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,postman,java,cpp,ubuntu,react,angular,python,mongodb,mysql,postgres,azure,bash,bootstrap,css,html,javascript,typescript,discord,django,gitlab,grafana,graphql,heroku,hibernate,jenkins&perline=9" />
+  </a>
+</p>
