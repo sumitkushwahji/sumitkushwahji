@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&pause=1000&color=2E44F7&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Sumit+Kushwah)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=5D78F7&center=true&vCenter=true&random=true&width=435&lines=Hello%2C+I'm+Sumit+kushwah)](https://git.io/typing-svg)
 
 ## About Me
 
