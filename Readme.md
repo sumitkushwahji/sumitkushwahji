@@ -32,6 +32,8 @@ I have been working as a Full Stack Developer for several years, specializing in
 
 - ⚡ Fun fact **I think, I m TEch Guy**
 
+- [![Deploy Vite React Application to GitHub Pages](https://github.com/sumitkushwahji/Ntp_Data_Monitoring_Frontend/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/sumitkushwahji/Ntp_Data_Monitoring_Frontend/actions/workflows/jekyll-gh-pages.yml)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sumit-kushwah-8a6a988a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sumit-kushwah-8a6a988a/" height="30" width="40" /></a>
