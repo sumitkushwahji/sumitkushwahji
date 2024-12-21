@@ -1,5 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sumit+kushwah)](https://git.io/typing-svg)
 
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="af2846e9-3f5e-495d-b797-2003ca6b69cb" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitkushwahji&label=Profile%20views&color=0e75b6&style=flat" alt="sumitkushwahji" /> </p>
